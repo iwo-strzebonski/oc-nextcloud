@@ -1,0 +1,5 @@
+NEXTCLOUD_OCS_URL=https://your.nextcloud.com/ocs/v2.php/apps
+NEXTCLOUD_WEBDAV_URL=https://your.nextcloud.com/remote.php/dav
+WEBDAV_PROXY_URL=https://request2webdav.iwo-strzebonski.workers.dev/webdav
+NEXTCLOUD_USERNAME=your_username
+NEXTCLOUD_PASSWORD=your_password
